@@ -1,6 +1,6 @@
 # Master Electron - Course Code
 
-lesson
+lessons
 
 Demo project modified from: https://github.com/electron/electron-quick-start
 

@@ -47,7 +47,7 @@ function createWindow() {
   })
 
   wc.on('dom-ready', () => {
-    console.log("Dom ready")
+    console.log("DOM ready")
   })
 
   // setTimeout(() => {
